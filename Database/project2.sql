@@ -84,9 +84,8 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`meter_no`, `name`, `username`, `password`, `user`) VALUES
-('1', 'Angel Jude Suarez', 'admin', 'admin', 'Admin'),
-('446227', '', '', '', ''),
-('45555', '', '', '', '');
+('1', 'Akanksha Verma', 'tanu ', 'tanu@123', 'Admin');
+
 
 -- --------------------------------------------------------
 
